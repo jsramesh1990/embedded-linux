@@ -17,7 +17,7 @@ This repository serves as a knowledge index linking topic-wise repositories cont
 
 ### Memory
 - [Memory Management](https://github.com/jsramesh1990/memory-management-project#memory-management-in-c)
-- [Buffers](https://github.com/jsramesh1990/memory-allocator-deep-dive/blob/main/Buffers)
+- [Buffers](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/buffer)
 - [Ring Buffer](https://github.com/jsramesh1990/memory-allocator-deep-dive/blob/main/Ring%20Buffer)
 - FIFO
 
