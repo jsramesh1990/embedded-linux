@@ -1,17 +1,17 @@
 # Embedded Systems Knowledge
 
-Centralized repository for Embedded Systems, Firmware Development, and Interview Preparation.
+Centralized repository for **Embedded Systems**, **Firmware Development**, and **Interview Preparation**.
 
 This repository serves as a knowledge index linking topic-wise repositories containing:
-- theory
-- implementations
-- notes
-- examples
-- interview preparation resources
+- Theory
+- Implementations
+- Notes
+- Examples
+- Interview preparation resources
 
 ---
 
-# Contents
+## Contents
 
 ## Common
 
@@ -37,13 +37,8 @@ This repository serves as a knowledge index linking topic-wise repositories cont
 - Math
 - DSP and Filtering
 - Compression
-- AI ML
-- CV
-
-### Cryptography
-- General
-- Elliptic Curve Cryptography
-- Random Number Generation
+- AI/ML
+- Computer Vision
 
 ### OS
 - RTOS
