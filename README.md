@@ -1,74 +1,33 @@
+
 # Embedded Systems Knowledge
 
-Centralized repository for **Embedded Systems**, **Firmware Development**, and **Interview Preparation**.
+Centralized repository for Embedded Systems, Firmware Development, and Interview Preparation.
+
+> **Note:** This repository is currently a work in progress and is being actively expanded.  
+> Some sections, examples, notes, and linked topic-wise repositories are still incomplete or under development.  
+> More content covering theory, implementations, interview preparation, and practical examples will be added gradually.
 
 This repository serves as a knowledge index linking topic-wise repositories containing:
+
 - Theory
 - Implementations
 - Notes
 - Examples
 - Interview preparation resources
+```
 
----
+If you want it a bit more polished, you can also add a roadmap section at the bottom:
 
-## Contents
+```md
+## Roadmap
 
-## Common
+Planned additions include:
 
-### Memory
-- [Memory Management](https://github.com/jsramesh1990/memory-management-project#memory-management-in-c)
-- [Buffers](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/buffer)
-- [Ring Buffer](https://github.com/jsramesh1990/memory-allocator-deep-dive/blob/main/Ring%20Buffer)
-- [FIFO](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/FIFO)
+- More protocol implementations
+- RTOS examples
+- Bootloader and firmware update workflows
+- Embedded interview question banks
+- Hardware driver examples
+- AI/ML for edge devices
+```
 
-### Storage
-- [Filesystems](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/Filesystems)
-- Databases
-- Flash Memory
-
-### Protocols
-- Radio Frequency Protocols
-- Network Protocols
-- Web Server
-- MQTT
-- Protocol Parsers
-
-### Data Processing
-- Math
-- DSP and Filtering
-- Compression
-- AI/ML
-- Computer Vision
-
-### OS
-- RTOS
-- Event Based Scheduler
-
-### User Interface
-- CLI
-- Menu
-- printf
-- scanf
-- Logging
-
-### GUI
-- GUI Editors
-- Font Utils
-- Picture Manipulation Tools
-
-### Hardware
-- IO
-- USB
-- Flash
-- CAN Bus
-
-### Others
-- Thread Management
-- Bootloaders
-- Firmware Updates
-- Touch Screen
-- Time Management Libraries
-- Embeddable Scripts and Languages
-
-### Compilers
-- Compilers
