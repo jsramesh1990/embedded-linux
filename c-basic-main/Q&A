@@ -1,0 +1,21 @@
+
+What is a pointer in C?
+What is the difference between * and & operators?
+How do you declare and initialize a pointer?
+What is a NULL pointer?
+What is a dangling pointer?
+What is a wild pointer?
+What is a void pointer?
+What is pointer arithmetic?
+What is the difference between array and pointer?
+Explain pointer to pointer with example.
+What happens when you dereference a NULL pointer?
+What is dynamic memory allocation in C?
+Difference between malloc() and calloc()?
+What is the use of realloc()?
+Why should free() be used?
+What is a memory leak?
+How are pointers passed to functions?
+What is a function pointer?
+What is the difference between call by value and call by reference?
+How are structures used with pointers?
