@@ -1,4 +1,4 @@
-# Embedded Linux Playground
+# Embedded Linux
 
 This repository is a structured capture of embedded system behavior across firmware, kernel, and hardware interaction layers. It focuses on system-level relationships rather than isolated concepts, emphasizing execution flow, constraints, and failure modes in real embedded environments.
 
